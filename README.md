@@ -253,7 +253,7 @@ ros2 launch slam_toolbox online_async_launch.py use_sim_time:=true
 ---
 
 ## 📜 License
-
+This tutorial is supplementary material for coure ROBO 202 Software Development for Robotics
 This tutorial set is open for educational and research use.  
 You’re free to reuse or modify it for your robotics or GUI development classes.
 
@@ -261,6 +261,8 @@ You’re free to reuse or modify it for your robotics or GUI development classes
 
 ## ✍️ Author & Acknowledgements
 
-Developed for the **TurtleBot3 Custom Data Visualization & SLAM GUI** lecture.  
+Developed for the **TurtleBot3 Custom Data Visualization & SLAM GUI** lecture.
+Under the course of ROBO 202 Software Development for Robotics.
+Made by Abdulrahman Hamdy.  
 Combines core concepts from **ROS 2**, **PyQt 5**, **rclpy**, and **tf2_ros**.  
 Special thanks to the open-source ROS community and the TurtleBot3 developers.
