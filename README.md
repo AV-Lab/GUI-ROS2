@@ -44,6 +44,7 @@ source /opt/ros/humble/setup.bash
 # Python & dependencies
 sudo apt install -y python3-pyqt5 python3-pyqtgraph ros-humble-tf2-ros
 
+# python version=3.10  | Linux ubuntu 22.04  Jammy | ROS2 Humble  | Gazebo  | turtlbot3 burger packages  
 # For TurtleBot3 simulations
 sudo apt install -y ros-humble-turtlebot3* ros-humble-slam-toolbox
 export TURTLEBOT3_MODEL=burger
