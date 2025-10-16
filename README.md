@@ -254,7 +254,7 @@ ros2 launch slam_toolbox online_async_launch.py use_sim_time:=true
 
 ## 📜 License
 This tutorial is supplementary material for coure ROBO 202 Software Development for Robotics
-This tutorial set is open for educational and research use.  
+This tutorial set is for educational and research use.  
 You’re free to reuse or modify it for your robotics or GUI development classes.
 
 ---
